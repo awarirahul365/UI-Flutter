@@ -1,6 +1,6 @@
-# udemy_flutter
+# flutter
 
-A new Flutter project.
+First flutter project basic personal card interface.
 
 ## Getting Started
 
